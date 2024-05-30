@@ -101,6 +101,7 @@
   <img height="29" src = "https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=4DB33D">
   <img height="29" src = "https://img.shields.io/badge/HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=C9C3E6">
   <img height="29" src = "https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F1502F">
+  <img height="29" src = "https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000080">
 
 </div>
 
