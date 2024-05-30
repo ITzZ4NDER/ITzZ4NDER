@@ -141,20 +141,20 @@
 
 <br>
 
+
 <p align="center"> 
-  <b>  My Statistics 📊 </b>
+  <b>  My Statistics 📊  </b>
 </p>
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itzz4nder&theme=chartreuse-dark&show_icons=true&count_private=true" /> <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itzz4nder&theme=chartreuse-dark&hide_border=false" /> 
-      </td>
-      <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itzz4nder&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ITzZ4NDER&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITzZ4NDER&theme=github_dark"/> </p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITzZ4NDER&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITzZ4NDER&theme=github_dark"/>
+</div>
+
+
+
 
 
