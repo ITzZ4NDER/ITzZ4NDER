@@ -123,21 +123,31 @@
 </div>
 
 
-<!-- Z4NDER Softwares & Tools -->
+<!-- Z4NDER Softwares And Tools  -->
 
-
+<br>
 <p align="center"> 
   <b>  Softwares And Tools 💻 </b>
 </p>
 
-<div align="center"> 
+<div align="center">
 
-  <img height="29" src = "https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f06529">
-
-
-
-</div>
-
+  <img height="29" src = "https://img.shields.io/badge/ADOBE-000000?style=for-the-badge&logo=adobe&logoColor=FF0000">
+  <img height="29" src = "https://img.shields.io/badge/MICROSOFT-000000?style=for-the-badge&logo=microsoft&logoColor=1877F2"">
+  <img height="29" src = "https://img.shields.io/badge/GOOGLE-000000?style=for-the-badge&logo=google&logoColor=brightgreen">
+  <img height="29" src = "https://img.shields.io/badge/META-000000?style=for-the-badge&logo=meta&logoColor=1877F2">
+  <img height="29" src = "https://img.shields.io/badge/SPOTIFY-000000?style=for-the-badge&logo=spotify">
+  <img height="29" src = "https://img.shields.io/badge/NETFLIX-000000?style=for-the-badge&logo=netflix&logoColor=FF0000">
+  <img height="29" src = "https://img.shields.io/badge/PHOTOSHOP-000000?style=for-the-badge&logo=adobephotoshop&logoColor=brightblue">
+  <img height="29" src = "https://img.shields.io/badge/ILLUSTRATOR-000000?style=for-the-badge&logo=adobeillustrator&logoColor=">
+  <img height="29" src = "https://img.shields.io/badge/AFTER EFFECTS-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=">
+  <img height="29" src = "https://img.shields.io/badge/PREMIER PRO-000000?style=for-the-badge&logo=adobepremierepro&logoColor=23a278dc">
+  <img height="29" src = "https://img.shields.io/badge/FILMORA-000000?style=for-the-badge&logo=wondersharefilmora&logoColor=e1306c">
+  <img height="29" src = "https://img.shields.io/badge/VS CODE-000000?style=for-the-badge&logo=visualstudio&logoColor=1877F2">
+  <img height="29" src = "https://img.shields.io/badge/BRAVE-000000?style=for-the-badge&logo=brave&logoColor=">
+  <img height="29" src = "https://img.shields.io/badge/CHROME-000000?style=for-the-badge&logo=googlechrome&logoColor=brightred">
+  <img height="29" src = "https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=">
+  <img height="29" src = "https://img.shields.io/badge/STREAMLABS-000000?style=for-the-badge&logo=streamlabs&logoColor=brightgreen">
 
 
 
