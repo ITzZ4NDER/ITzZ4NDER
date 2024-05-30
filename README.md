@@ -148,15 +148,15 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ITzZ4NDER&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ITzZ4NDER&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/> 
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITzZ4NDER&theme=github_dark"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITzZ4NDER&theme=highcontrast"/> 
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITzZ4NDER&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITzZ4NDER&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITzZ4NDER&theme=highcontrast"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITzZ4NDER&theme=highcontrast"/>
 </div>
 
 
