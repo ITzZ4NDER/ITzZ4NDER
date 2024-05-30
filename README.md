@@ -21,7 +21,7 @@
   </ul>
 </div>
 
-  <h2> 💫 About Me </h2>
+  <h2> 👨🏻‍💻 About Me </h2>
   
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" />
 
@@ -76,6 +76,25 @@
 [Reddit]: https://www.reddit.com/user/pasinduxbro/
 
 [Dev_Community]: https://dev.to/itzz4nder
+
+<p align="center"> 
+  <b> Programming Languages 🌐 </b>
+</p>
+
+<div align="center">
+
+  <img height="29" src = "https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/CSS-000000.svg?&style=for-the-badge&logo=css3&logoColor=264de4">
+  <img height="29" src = "https://img.shields.io/badge/JAVASCRIPT-000000.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e">
+  <img height="29" src = "https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=0143aa">
+  <img height="29" src = "https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=C%2B%2B&logoColor=%23649ad3">
+  <img height="29" src = "https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=C%23&logoColor=%23a278dc">
+  <img height="29" src = "https://img.shields.io/badge/PHP-000000.svg?&style=for-the-badge&logo=Php&logoColor=777ab3">
+  <img height="29" src = "https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=db7432">
+  <img height="29" src = "https://img.shields.io/badge/PYTHON-000000.svg?&style=for-the-badge&logo=Python&logoColor=FFDE57">
+  <img height="29" src = "https://img.shields.io/badge/TYPESCRIPT-000000.svg?&style=for-the-badge&logo=typescript&logoColor=007acc">
+  
+</div>
 
 
 
