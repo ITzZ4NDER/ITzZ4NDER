@@ -178,7 +178,7 @@
 
 <!-- Z4NDER Support -->
 <p align="center"> 
-  <b>  Support  </b>
+  <b>  Support 🤝 </b>
 </p>
 
 <p align="center">
