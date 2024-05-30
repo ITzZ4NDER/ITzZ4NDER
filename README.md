@@ -45,6 +45,10 @@
 - 📞 WhatsApp : [**+94 77 6333 548**](https://wa.me/message/R52ZDBKLUBS7L1)
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <!-- Z4NDER Social Media Links -->
 <p align="center"> 
   <b> Connect With Me 🤙 </b>
@@ -83,6 +87,12 @@
 [Dev_Community]: https://dev.to/itzz4nder
 
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
 <!-- Z4NDER Technologies And Languages -->
 <p align="center"> 
   <b>  Technologies And Languages 🌐 </b>
@@ -112,8 +122,11 @@
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <!-- Z4NDER Softwares And Tools  -->
-<br>
 <p align="center"> 
   <b>  Softwares And Tools 💻 </b>
 </p>
@@ -139,7 +152,8 @@
 
 </div>
 
-<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Z4NDER Statistics 📊 -->
@@ -159,7 +173,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITzZ4NDER&theme=highcontrast"/>
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Z4NDER Support -->
@@ -172,6 +186,7 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
