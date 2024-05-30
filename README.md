@@ -78,7 +78,7 @@
 [Dev_Community]: https://dev.to/itzz4nder
 
 <p align="center"> 
-  <b> Programming Languages 🌐 </b>
+  <b>  Technologies And Languages 🌐 </b>
 </p>
 
 <div align="center">
@@ -94,6 +94,14 @@
   <img height="29" src = "https://img.shields.io/badge/PYTHON-000000.svg?&style=for-the-badge&logo=Python&logoColor=FFDE57">
   <img height="29" src = "https://img.shields.io/badge/TYPESCRIPT-000000.svg?&style=for-the-badge&logo=typescript&logoColor=007acc">
   
+  <img height="29" src = "https://img.shields.io/badge/bootstrap-000000.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img height="29" src = "https://img.shields.io/badge/REACTJS-000000?style=for-the-badge&logo=reactjs&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/JQUERY-000000?style=for-the-badge&logo=jquery&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodejs&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=f06529">
+  <img height="29" src = "https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=f06529">
+
 </div>
 
 
