@@ -5,7 +5,7 @@
 <!--Z4NDER Title-->
 <div>
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Z4NDER</h1></summary>
+    <h1 style="display: inline-block">Hi 👋, I'm Z4NDER</h1>
   </ul>
   <ul>
     <h3 align="center">Make It Work, Make It Right, Make It Fast.</h3>
