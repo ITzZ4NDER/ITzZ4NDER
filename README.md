@@ -5,7 +5,7 @@
 <!--Z4NDER Title-->
 <div>
   <ul align="center">
-  <summery>
+  <summary> <summary>
     <h1 style="display: inline-block">Hi 👋, I'm Z4NDER</h1>
   </ul>
   <ul>
@@ -45,8 +45,8 @@
   
 - 📞 WhatsApp : [**+94 77 6333 548**](https://wa.me/message/R52ZDBKLUBS7L1)
 
-  </summery>
-
+  </summary>
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
