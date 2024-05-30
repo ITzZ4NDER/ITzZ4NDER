@@ -1,6 +1,12 @@
+
+<!-- Z4NDER Upper Gradient Line -->
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+
+<!--Z4NDER Title-->
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -21,9 +27,13 @@
   </ul>
 </div>
 
-  <h2> 👨🏻‍💻 About Me </h2>
+
+<!-- Z4NDER About -->
+
+
+<h2> 👨🏻‍💻 About Me </h2>
   
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" />
 
 - 👑 Founder at **Z4 DEV & Z4 EDITz**
   
@@ -40,6 +50,10 @@
 - 📧 Mail : **pasinduchanmira2002@gmail.com**
   
 - 📞 WhatsApp : [**+94 77 6333 548**](https://wa.me/message/R52ZDBKLUBS7L1)
+
+
+<!-- Z4NDER Social Media Links -->
+
 
 <p align="center"> 
   <b> Connect With Me 🤙 </b>
@@ -77,6 +91,10 @@
 
 [Dev_Community]: https://dev.to/itzz4nder
 
+
+<!-- Z4NDER Technologies And Languages -->
+
+
 <p align="center"> 
   <b>  Technologies And Languages 🌐 </b>
 </p>
@@ -93,7 +111,6 @@
   <img height="29" src = "https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=db7432">
   <img height="29" src = "https://img.shields.io/badge/PYTHON-000000.svg?&style=for-the-badge&logo=Python&logoColor=FFDE57">
   <img height="29" src = "https://img.shields.io/badge/TYPESCRIPT-000000.svg?&style=for-the-badge&logo=typescript&logoColor=007acc">
-  
   <img height="29" src = "https://img.shields.io/badge/bootstrap-000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c">
   <img height="29" src = "https://img.shields.io/badge/REACTJS-000000?style=for-the-badge&logo=react&logoColor=61DBFB">
   <img height="29" src = "https://img.shields.io/badge/JQUERY-000000?style=for-the-badge&logo=jquery&logoColor=0769ad">
@@ -104,6 +121,23 @@
   <img height="29" src = "https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000080">
 
 </div>
+
+
+<!-- Z4NDER Softwares & Tools -->
+
+
+<p align="center"> 
+  <b>  Softwares And Tools 💻 </b>
+</p>
+
+<div align="center"> 
+
+  <img height="29" src = "https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f06529">
+
+
+
+</div>
+
 
 
 
