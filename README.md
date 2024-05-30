@@ -1,14 +1,9 @@
-
 <!-- Z4NDER Upper Gradient Line -->
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--Z4NDER Title-->
-
-
-<div id="user-content-toc">
+<div>
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Z4NDER</h1></summary>
   </ul>
@@ -29,8 +24,6 @@
 
 
 <!-- Z4NDER About -->
-
-
 <h2> 👨🏻‍💻 About Me </h2>
   
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" />
@@ -53,8 +46,6 @@
 
 
 <!-- Z4NDER Social Media Links -->
-
-
 <p align="center"> 
   <b> Connect With Me 🤙 </b>
 </p>
@@ -93,8 +84,6 @@
 
 
 <!-- Z4NDER Technologies And Languages -->
-
-
 <p align="center"> 
   <b>  Technologies And Languages 🌐 </b>
 </p>
@@ -124,7 +113,6 @@
 
 
 <!-- Z4NDER Softwares And Tools  -->
-
 <br>
 <p align="center"> 
   <b>  Softwares And Tools 💻 </b>
@@ -149,6 +137,24 @@
   <img height="29" src = "https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=">
   <img height="29" src = "https://img.shields.io/badge/STREAMLABS-000000?style=for-the-badge&logo=streamlabs&logoColor=brightgreen">
 
+</div>
 
+<br>
+
+<p align="center"> 
+  <b>  My Statistics 📊 </b>
+</p>
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itzz4nder&theme=chartreuse-dark&show_icons=true&count_private=true" /> <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itzz4nder&theme=chartreuse-dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itzz4nder&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
 
 
